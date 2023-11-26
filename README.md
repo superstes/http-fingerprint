@@ -24,6 +24,13 @@ More detailed information can be found here:
 * [TLS Fingerprinting (JA3)](https://github.com/salesforce/ja3)
 * [TCP/OS Fingerprinting](https://incolumitas.com/2021/03/13/tcp-ip-fingerprinting-for-vpn-and-proxy-detection/)
 * [wiki.superstes.eu - WAF](https://wiki.superstes.eu/en/latest/1/infra/waf.html)
+* [Mozilla - Browser Fingerpinting](https://developer.mozilla.org/en-US/docs/Glossary/Fingerprinting)
+* [Javascript Fingerprinting](https://fingerprint.com/blog/browser-fingerprinting-techniques/)
+
+  * [Canvas Fingerprinting](https://fingerprint.com/blog/canvas-fingerprinting/) | [Canvas Fingerprinting #2](https://eric-diehl.com/fingerprinting-canvas-of-browser/)
+
+  * [Audio Fingerprinting](https://fingerprint.com/blog/audio-fingerprinting/)
+
 
 ----
 
@@ -88,3 +95,5 @@ If you are interested: Information on how to [create GeoIP databases from scratc
 To be continued..
 
 This is what I want to dive into here.. (;
+
+
